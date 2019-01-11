@@ -1,0 +1,29 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: purple;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding: 30px;
+    color:white;
+}
+
+p {
+    color:fuchsia;
+    padding: 50px;
+}
+
+ul {
+    background-color: silver;
+    padding: 10px;
+}
+li {
+    padding: 10px;
+    margin-left: 15px;
+}
