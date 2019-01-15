@@ -1,0 +1,55 @@
+body {
+    background-color: #006666; 
+    color: white;
+  }
+
+  h1:hover {
+      text-decoration: underline;
+  }
+
+  input:hover {
+      border: 3px solid yellow;
+  }
+
+  input:focus {
+      background-color: yellow;
+      border: 3px black solid;
+  }
+
+  button {
+    background-color: white;
+    color: #006666;
+    border: 3px white solid;
+  }
+  button {
+    background-color: #006666;
+    color: white;
+  }
+  button {
+    background-color: #33cc99;
+  }
+
+  button:hover {
+      background-color: #006666;
+  }
+
+  button:active {
+      background-color: #33cc99;
+  }
+
+  li:hover {
+    background-color: white;
+    color: #006666;
+  }
+  
+  li:active {
+    background-color: #33cc99;
+    color: white;
+  }
+
+  a {
+      color: white;
+  }
+  a:visited {
+      color: #33cc99;
+  }
